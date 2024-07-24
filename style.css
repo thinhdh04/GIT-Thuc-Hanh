@@ -18,3 +18,8 @@
     height: 60%;
     object-fit: cover;
 }
+
+.noibat {
+    color: red;
+    background: green;
+}
